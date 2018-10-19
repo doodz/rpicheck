@@ -1,4 +1,4 @@
-RasPi Check [![Build Status](https://travis-ci.org/eidottermihi/rpicheck.svg?branch=master)](https://travis-ci.org/eidottermihi/rpicheck)
+RasPi Check [![Build Status](https://travis-ci.org/eidottermihi/rpicheck.svg?branch=master)](https://travis-ci.org/eidottermihi/rpicheck) [![GuardRails badge](https://badges.production.guardrails.io/doodz/rpicheck.svg)](https://www.guardrails.io)
 ========
 ![RasPi Check Store Graphic](graphics/web_1024_500.jpg)
 
